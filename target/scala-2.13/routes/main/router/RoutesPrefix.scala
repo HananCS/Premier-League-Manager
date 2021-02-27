@@ -1,6 +1,6 @@
 // @GENERATOR:play-routes-compiler
 // @SOURCE:C:/Users/Benhanan/Desktop/play-samples-play-java-hello-world-tutorial/conf/routes
-// @DATE:Thu Dec 31 18:16:37 IST 2020
+// @DATE:Thu Jan 14 19:59:49 IST 2021
 
 
 package router {

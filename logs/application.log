@@ -1,17 +1,14 @@
-2021-01-04 02:33:24,773 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-8 - 
+2021-01-16 14:02:38,915 [WARN] from play.api.http.HttpConfiguration in play-dev-mode-akka.actor.default-dispatcher-5 - 
 Your secret key is very short, and may be vulnerable to dictionary attacks.  Your application may not be secure.
 The application secret should ideally be 32 bytes of completely random input, encoded in base64. While the application
 will be able to start in production mode, you will also see a warning when it is starting.
 To set the application secret, please read http://playframework.com/documentation/latest/ApplicationSecret
           
-2021-01-04 02:33:24,801 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-8 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+2021-01-16 14:02:38,942 [INFO] from play.api.http.EnabledFilters in play-dev-mode-akka.actor.default-dispatcher-5 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
 
     play.filters.csrf.CSRFFilter
     play.filters.headers.SecurityHeadersFilter
     play.filters.hosts.AllowedHostsFilter
     play.filters.gzip.GzipFilter
 
-2021-01-04 02:33:24,908 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-8 - Application started (Dev) (no global state)
-2021-01-04 02:34:01,471 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-shutdown-hook-1 - Stopping Akka HTTP server...
-2021-01-04 02:34:01,475 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-akka.actor.internal-dispatcher-12 - Terminating server binding for /0:0:0:0:0:0:0:0:9000
-2021-01-04 02:34:01,505 [INFO] from play.core.server.AkkaHttpServer in play-dev-mode-akka.actor.internal-dispatcher-12 - Running provided shutdown stop hooks
+2021-01-16 14:02:39,062 [INFO] from play.api.Play in play-dev-mode-akka.actor.default-dispatcher-5 - Application started (Dev) (no global state)
